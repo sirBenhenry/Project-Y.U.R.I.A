@@ -1,15 +1,15 @@
 <div align="center">
 
-# Project Y.U.R.I.A  
-### *Ubiquitous Reasoning & Integration Assistant*
+# **Project Y.U.R.I.A**
+### **Ubiquitous Reasoning & Integration Assistant**
 
 **Codename:** **Yggdrasil**
 
 <br/>
 
-> **Y.U.R.I.A** is a capable, always-available assistant designed to operate beyond chat.  
-> It connects reasoning with real integrations—bringing calendars, email, files, smart-home devices,  
-> and connected machines under one coherent system so tasks can be understood, planned, and executed end-to-end.
+<strong>Y.U.R.I.A</strong> is a capable, always-available assistant designed to operate beyond chat.  
+It connects reasoning with real integrations—bringing calendars, email, files, smart-home devices,  
+and connected machines under one coherent system so tasks can be understood, planned, and executed end-to-end.
 
 </div>
 
@@ -26,9 +26,9 @@ The codename **Yggdrasil** reflects the project’s core idea: a single structur
 
 ## Name & Meaning
 
-- **Project Name:** **Y.U.R.I.A**  
-- **Short Name:** **Yuria**  
-- **Stands for:** **Ubiquitous Reasoning & Integration Assistant**  
+- **Project Name:** **Y.U.R.I.A**
+- **Short Name:** **Yuria**
+- **Stands for:** **Ubiquitous Reasoning & Integration Assistant**
 - **Codename:** **Yggdrasil**
 
 ---
